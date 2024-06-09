@@ -24,3 +24,4 @@ echo "Releasing the project"
 }
 }
 }
+}
